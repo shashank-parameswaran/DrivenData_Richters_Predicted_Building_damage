@@ -1,0 +1,2 @@
+# DrivenData_Richters_Predicted_Building_damage
+Hackathon on DrivenData
